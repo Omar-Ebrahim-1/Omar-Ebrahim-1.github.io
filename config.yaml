@@ -58,7 +58,7 @@ params:
     - name: "github"
       url: "https://github.com/Omar-Ebrahim-1"
     - name: "cv"
-      url: "https://example.com"
+      url: "./Omar_Ebrahim_Resume.pdf"
 
   # text search
   fuseOpts:
