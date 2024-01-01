@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Omar Ebrahim</title>
+    <link>https://arkalim.org/</link>
+    <description>Recent content on Omar Ebrahim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://arkalim.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyberbot: Your Versatile Robot Companion</title>
+      <link>https://arkalim.org/projects/cyberbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/cyberbot/</guid>
+      <description>Embark on a robotics journey with Cyberbot – a versatile robot car designed for learning and experimenting with programming and robotics concepts.</description>
+    </item>
+    
+    <item>
+      <title>Robot Car Track</title>
+      <link>https://arkalim.org/projects/robot-car-track/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/robot-car-track/</guid>
+      <description>Explore the world of robotics with this meticulously designed Robot Car Track created using Inkscape!</description>
+    </item>
+    
+    <item>
+      <title>Reminder-CLI: Effortless Time-Based Reminders in Your Terminal</title>
+      <link>https://arkalim.org/projects/reminder-cli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/reminder-cli/</guid>
+      <description>Discover a lightweight command-line tool for setting time-based reminders and receiving desktop notifications directly in your terminal.</description>
+    </item>
+    
+    <item>
+      <title>Password Generator</title>
+      <link>https://arkalim.org/projects/password-generator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/password-generator/</guid>
+      <description>Generate secure passwords effortlessly with this Bash and OpenSSL-based Password Generator!</description>
+    </item>
+    
+    <item>
+      <title>QR Code Generator</title>
+      <link>https://arkalim.org/projects/qr-code-generator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/qr-code-generator/</guid>
+      <description>Create QR codes effortlessly with this versatile QR Code Generator project!</description>
+    </item>
+    
+    <item>
+      <title>Trebuchet Project: Design, Construction, and Analysis</title>
+      <link>https://arkalim.org/projects/dynamics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/dynamics/</guid>
+      <description>Embark on a journey into medieval engineering with the Trebuchet Project. Explore the design, construction, and analysis of a trebuchet, a fascinating medieval siege engine. Dive into detailed reports providing in-depth insights into various aspects of the project.</description>
+    </item>
+    
+    <item>
+      <title>FloModoro Stopwatch: Boost Your Productivity with the Pomodoro Technique</title>
+      <link>https://arkalim.org/projects/flomodoro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/flomodoro/</guid>
+      <description>Empower your work focus with FloModoro Stopwatch, an Android application designed to enhance productivity using the Pomodoro Technique. Dive into a seamless stopwatch experience tailored to help users concentrate on their tasks.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

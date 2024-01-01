@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Omar Ebrahim</title>
+    <link>https://arkalim.org/tags/python/</link>
+    <description>Recent content in Python on Omar Ebrahim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://arkalim.org/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyberbot: Your Versatile Robot Companion</title>
+      <link>https://arkalim.org/projects/cyberbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arkalim.org/projects/cyberbot/</guid>
+      <description>Embark on a robotics journey with Cyberbot – a versatile robot car designed for learning and experimenting with programming and robotics concepts.</description>
+    </item>
+    
+  </channel>
+</rss>
